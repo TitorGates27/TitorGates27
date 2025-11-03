@@ -1,4 +1,7 @@
-## Hi there 👋
+# Buenas, me presento :v
+### Mi nombre es Humberto (También Titor), y estoy empezando
+en el tema de la programación frontend y github, con algo de
+conocimiento en c#, python y bases de datos mysql.
 
 <!--
 **TitorGates27/TitorGates27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
